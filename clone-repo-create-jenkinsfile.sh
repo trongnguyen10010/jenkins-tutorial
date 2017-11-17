@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd ~/
 mkdir -p GitHub
 cd GitHub
 
